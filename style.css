@@ -8,7 +8,7 @@ html, body {
 }
 .navbar {
     padding: .8rem;
-    color: #0245ff;
+    color: #0245ff; 
 }
 .navbar-nav li {
     padding-right: 20px;
@@ -17,7 +17,7 @@ html, body {
     font-size: 1.1em !important;
 }
 .navbar-brand{
-    max-width: 100%;
+    max-width: 50%;
 }
 .carousel-inner img {
     width: 100%;
@@ -81,11 +81,11 @@ html, body {
     color: #4652ff;
 }
 .fa-eye{
-    color: #fffd92;
+    color: #444300;
 }
 .fa-handshake, .fa-check-square, .fa-lightbulb, .fa-users, .fa-certificate, .fa-eye {
-    font-size: 4em;
-    margin: 1rem;
+    font-size: 5em;
+    margin: 2rem;
 }
 .fun{
     width: 100%;
